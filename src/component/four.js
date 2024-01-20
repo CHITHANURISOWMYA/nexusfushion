@@ -6,7 +6,7 @@ const Four=()=>{
     return(
         <>
          
-         <div className={styl.flexcontainer}>
+         <div className={styl.flexcontainer}style={{fontSize:"16px"}}>
              <div className={style.flexrigth}><img src="https://www.aesop.com/u1nb1km7t5q7/1puhwTy0xTMusHggeBve7y/0809fe2c17c678369df30d00274cece8/Aesop-Other-Digital-Gift-Card-medium1.png"  width="70%" height="200px"/></div>
              <div className={stylee.flexleft}>
                

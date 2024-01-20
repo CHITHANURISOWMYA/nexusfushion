@@ -7,7 +7,7 @@ const Second=()=>{
     return(
         <>
          
-            <div className={styl.flexcontainer}>
+            <div className={styl.flexcontainer} style={{fontSize:"16px"}}>
              <div className={style.flexright}>
              <p>online only</p>
                 

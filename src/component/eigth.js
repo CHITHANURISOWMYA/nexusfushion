@@ -9,7 +9,7 @@ const Eigth=()=>{
         <>
          
             
-         <div className={styl.flexcontainerrs}>
+         <div className={styl.flexcontainerrs} style={{fontSize:"16px"}}>
              <div className={style1.flex1}>
              <h6>Certified B Corp</h6>
 We meet the highest verified standards of social and environmental performance, transparency and accountability.

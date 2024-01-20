@@ -7,7 +7,7 @@ const Five=()=>{
     return(
         <>
          
-            <div className={styl.flexcontainer}>
+            <div className={styl.flexcontainer}style={{fontSize:"16px"}}>
              <div className={style.flexrigth}>
              
                 
