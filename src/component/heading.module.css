@@ -1,0 +1,86 @@
+
+/* .text{
+
+    padding: 10px;
+    flex: 50%;
+    position: relative;
+    top:100px
+} */
+.flexcontainer {
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .flexleft {
+   
+    padding: 10px;
+    flex: 65%;
+   
+  
+  }
+  
+  .flexright {
+     padding: 10px;
+    flex: 35%;
+  }
+.flexcontainerrs{
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-align: center;
+}
+
+.flex1{
+    margin: 10px;
+ flex:30%;
+ background-color: beige;
+}
+.flex2{
+    margin: 10px;
+    flex:30%;
+    background-color: beige;
+   }
+   .flex3{
+    margin: 10px;
+    background-color: beige;
+    flex:30%
+   }
+   .flexcontainerrss{
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-align: center;
+}
+
+.flex11{
+    margin: 10px;
+ flex:30%;
+ 
+}
+.flex22{
+    margin: 10px;
+    flex:30%;
+   
+   }
+   .flex33{
+    margin: 10px;
+   
+    flex:30%
+   }
+
+  
+  /* Responsive layout - makes a one column-layout instead of two-column layout */
+  @media (max-width: 520px) {
+    .flexcontainer {
+      flex-direction: column;
+    }
+    .flexcontainerrs{
+        flex-direction: column;
+    }
+    .flexcontainerrss{
+        flex-direction: column;
+    }
+
+  }
