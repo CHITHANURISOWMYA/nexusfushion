@@ -37,6 +37,7 @@ Rich in Vitamins B and C, this lightly hydrating gel with a honey-like texture, 
         />
          <Carousel.Caption className={sty.text}>
           {/* <h1>sowmya</h1> */}
+          <h1>MANIKANTA PATEL</h1>
           <p>Potent and peerless
             <h4>Joyous gift preparation</h4>
 Rich in Vitamins B and C, this lightly hydrating gel with a honey-like texture, replenishes, softens and balances the skin.</p>
@@ -66,6 +67,7 @@ export default AutoCarousel;
 //MANIKANTAPATEL
 //MANIKANTAPATEL
 //MANIKANTAPATEL
+
 
 
    
