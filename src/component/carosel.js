@@ -58,6 +58,10 @@ Rich in Vitamins B and C, this lightly hydrating gel with a honey-like texture, 
 };
 
 export default AutoCarousel;
+//MANIKANTAPATEL 
+//MANIKANTAPATEL
+//MANIKANTAPATEL
+//MANIKANTAPATEL
 
 
    
