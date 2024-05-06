@@ -10,7 +10,7 @@ const AutoCarousel = () => {
     //sowmya chithanuri
      //sowmya chithanuri 
      //sowmya chithanuri 
-     //sowmya chithanuri
+     
     <Carousel interval={3000}>
       <Carousel.Item>
         <img
@@ -38,6 +38,9 @@ Rich in Vitamins B and C, this lightly hydrating gel with a honey-like texture, 
          <Carousel.Caption className={sty.text}>
           <p>Potent and peerless
             <h4>Joyous gift preparation</h4>
+            <h1>sowmya repo</h1>
+            <h1>sowmya repo</h1>
+            <h1>sowmya repo</h1>
 Rich in Vitamins B and C, this lightly hydrating gel with a honey-like texture, replenishes, softens and balances the skin.</p>
         </Carousel.Caption>
       </Carousel.Item>
