@@ -7,6 +7,10 @@ import sty from "./heading.module.css"
 
 const AutoCarousel = () => {
   return (
+    //sowmya chithanuri
+     //sowmya chithanuri 
+     //sowmya chithanuri 
+     //sowmya chithanuri
     <Carousel interval={3000}>
       <Carousel.Item>
         <img
